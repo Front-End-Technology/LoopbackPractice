@@ -1,0 +1,19 @@
+{
+  "name": "loopbackpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Front-End-Technology/LoopbackPractice.git"
+  },
+  "author": "Babita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Front-End-Technology/LoopbackPractice/issues"
+  },
+  "homepage": "https://github.com/Front-End-Technology/LoopbackPractice#readme"
+}
